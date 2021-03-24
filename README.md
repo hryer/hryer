@@ -3,7 +3,7 @@
 <br />
 I'm a Platform Engineer at eFishery 🐟. 
 Currently focusing on web technologies, and sometimes I learn about cloud technologies.
-I live in Bandung, Indonesia right now. If you're in Bandung want to talk and drink coffee ☕  with me just hit me up. Let's Talk !
+I live in Bandung, Indonesia right now. If you're in Bandung want to drink coffee ☕  with me just hit me up. Let's Talk and I'll be your tourguide!
 
 ## 🤙 Have a questions or Hire me? Message me on:
 
