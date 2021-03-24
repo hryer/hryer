@@ -2,7 +2,7 @@
 <img width="150" src="https://hryer.dev/static/f66ac6e383dffaf71951359edcd776c6/69a04/harry_cartoon.png" />
 <br />
 I'm a Platform Engineer at eFishery 🐟. 
-Currently focusing on web technologies, and blockchian technologies.
+Currently focusing on web technologies, and blockchian technologies. Some people said the web version 3.
 I live in Bandung, Indonesia right now. If you're in Bandung want to drink coffee ☕  with me just hit me up. Let's Talk and I'll be your tourguide !
 
 ## 🤙 Have a questions or Hire me? Message me on:
