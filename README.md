@@ -3,7 +3,7 @@
 <br />
 I'm a Platform Engineer at eFishery 🐟. <br />
 Currently focusing on web technologies, and blockchain technologies. Some people said the web version 3. <br />
-I live in Bandung, Indonesia right now. If you're in Bandung want to drink coffee ☕  with me just hit me up. <br />
+I live in Bandung, Indonesia right now. If you're at Bandung right now and want to drink coffee ☕  with me just hit me up. <br />
 Let's Talk and I'll be your tourguide !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
