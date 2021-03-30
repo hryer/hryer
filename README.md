@@ -2,7 +2,7 @@
 <img width="150" src="https://hryer.dev/static/f66ac6e383dffaf71951359edcd776c6/69a04/harry_cartoon.png" />
 <br />
 I'm a Platform Engineer at eFishery 🐟. <br />
-Currently focusing on web technologies, and blockchain technologies. Some people said the web version 3. <br />
+Currently focusing on web technologies, and blockchain technologies. <br />
 I live in Bandung, Indonesia right now. If you're at Bandung right now and want to drink coffee ☕  with me just hit me up. <br />
 Let's Talk and I'll be your tourguide !<br />
 
@@ -28,5 +28,7 @@ Let's Talk and I'll be your tourguide !<br />
 
 <br />
 
-
 [linkedin]: https://www.linkedin.com/in/hryer/
+
+## Stats
+![Hryer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hryer&show_icons=true&theme=radical)
