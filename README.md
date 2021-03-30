@@ -31,7 +31,6 @@ Let's Talk and I'll be your tourguide !<br />
 [linkedin]: https://www.linkedin.com/in/hryer/
 
 ## Stats
-![Hryer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hryer&show_icons=true&theme=radical) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hryer)](https://github.com/anuraghazra/github-readme-stats)
+![Hryer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hryer&show_icons=true&theme=radical)
 
 
