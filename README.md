@@ -1,7 +1,7 @@
 ## Hi there 👋 , I'm Harry 🦊
 <img width="150" src="https://hryer.dev/static/f66ac6e383dffaf71951359edcd776c6/69a04/harry_cartoon.png" />
 <br />
-I'm a Platform Engineer at eFishery 🐟. <br />
+I'm a Technical Lead at eFishery 🐟. <br />
 Currently focusing on web technologies, and blockchain technologies. <br />
 I live in Bandung, Indonesia right now. If you're at Bandung right now and want to drink coffee ☕  with me just hit me up. <br />
 Let's Talk and I'll be your tourguide !<br />
