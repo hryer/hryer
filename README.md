@@ -3,7 +3,7 @@
 <br />
 I'm a Software Engineer ex-Tech Lead. <br />
 Currently focusing on web technologies, and blockchain technologies. <br />
-I live in Bandung, Indonesia. If you're at Bandung right now and want to drink coffee ☕  with me just hit me up. <br />
+I live in Bandung, Indonesia until pandemic is over. If you're at Bandung right now and want to drink coffee &nbsp ☕ &nbsp with me just hit me up. <br />
 Let's Talk and I'll be your tourguide !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
