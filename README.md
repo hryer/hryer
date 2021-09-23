@@ -8,7 +8,7 @@ Let's Talk and I'll be your tourguide !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
 
-[<img align="left" alt="linked-in | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" style="margin:0 10px"/>][linkedin]
+[<img align="left" alt="linked-in | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:0 10px"/>][linkedin]
 
 <br />
 
