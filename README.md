@@ -3,8 +3,7 @@
 <br />
 I'm a Software Engineer. <br />
 Currently focusing on Software Engineering and Blockchain technologies. <br />
-I live in Bandung, Indonesia until pandemic is over. If you're at Bandung right now and want to drink coffee &nbsp ☕ &nbsp with me just hit me up. <br />
-Let's Talk and I'll be your tourguide !<br />
+Let's Talks !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
 
