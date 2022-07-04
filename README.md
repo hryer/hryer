@@ -1,7 +1,7 @@
 ## Hi there 👋 , I'm Harry 🦊
 <img width="150" src="https://hryer.dev/static/f66ac6e383dffaf71951359edcd776c6/69a04/harry_cartoon.png" />
 <br />
-I'm a Software Engineer <br />
+I'm a Software Engineer. <br />
 Expertize on Product Engineer ( 0 - 1 ). <br />
 Currently focusing on Software Engineering and Blockchain technologies. <br />
 Let's Talks !<br />
