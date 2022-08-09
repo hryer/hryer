@@ -2,7 +2,7 @@
 <img width="150" src="https://hryer.dev/static/f66ac6e383dffaf71951359edcd776c6/69a04/harry_cartoon.png" />
 <br />
 I'm a Software Engineer, Currently working at Pintu Crypto <br />
-Specialization on New Product / Product Engineering ( 0 to 1 ). <br />
+Specialization on New Product / Product Engineering ( Mostly 0 to 1 ). <br />
 Currently focusing on Software Engineering and Blockchain technologies. <br />
 Let's Talks !<br />
 
