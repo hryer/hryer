@@ -1,9 +1,9 @@
 ## Hi there 👋 , I'm Harry 🦊
 <img width="150" src="https://hryer.dev/static/f66ac6e383dffaf71951359edcd776c6/69a04/harry_cartoon.png" />
 <br />
-I'm a Software Engineer, Digital Nomad and who live at Canggu, Bali. <br />
+I'm a Software Engineer, Digital Nomad around Bali & Nusa Tenggara. <br />
 Specialization on New Product / Product Engineering ( Mostly 0 to 1 / High Uncertainty ). <br />
-Currently focusing on Software Engineering and Blockchain technologies. <br />
+Currently learning more about Software Engineering and Blockchain technologies. <br />
 Let's Meet or Talks !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
