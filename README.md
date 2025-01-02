@@ -28,7 +28,5 @@ Let's Meet or Talks !<br />
 
 [linkedin]: https://www.linkedin.com/in/hryer/
 
-## Stats
-![Hryer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hryer&show_icons=true&theme=radical)
 
 
