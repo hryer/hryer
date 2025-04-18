@@ -1,6 +1,4 @@
 ## Hi there 👋 , I'm Harry 🦊
-<img src="[https://hryer.dev/_ipx/w_1920,q_75/%2F_next%2Fstatic%2Fmedia%2Fdeveloper-pic-1.1709b938.png](https://hryer.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeveloper-pic-1.1709b938.png](https://hryer.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeveloper-pic-1.1709b938.png&w=300&q=75)" />
-<br />
 I'm a Software Engineer, <br />
 Currently learning more about Software Engineering and Blockchain technologies. <br />
 Let's Meet or Talks !<br />
