@@ -1,6 +1,6 @@
 ## Hi there 👋 , I'm Harry 🦊
 I'm a Software Engineer, <br />
-Currently learning more about Software Engineering and Blockchain technologies. <br />
+Currently, I work as a Software Engineer for Web3 Wallet teams. I do a lot of research on Web3 spaces, which you can read [here](https://medium.com/hryer-dev). <br />
 Let's Meet or Talks !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
