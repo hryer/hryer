@@ -4,8 +4,8 @@ Currently, I build Web3 Wallet teams for Indonesian startups. I do a lot of rese
 Let's Meet or Talks !<br />
 
 ## I'm currently learn contributing to open-source projects in Web3 spaces. Here's a list of the OSS projects I've contributed to:
-[Ethereum Org Website](https://github.com/ethereum/ethereum-org-website)
-[https://github.com/reactjs/id.react.dev](https://github.com/reactjs/id.react.dev)
+[Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
+[ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
 
 ## 🤙 Have a questions or Hire me? Message me on:
 
