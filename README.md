@@ -3,7 +3,8 @@ I'm a Batman 🦇, I mean Software Engineer <br />
 Currently, I build Web3 Wallet teams for Indonesian startups. I do a lot of research on Web3 spaces, which you can read [here](https://medium.com/hryer-dev). <br />
 Let's Meet or Talks !<br />
 
-## I'm still new to contributing to open source in Web3, but I'm doing my best to learn and get involved. Here are some projects I've contributed to so far:
+## Open Sources - Web3 Ecosystems
+I'm currently learn contributing to open-source projects in Web3 spaces. Here's a list of the OSS projects I've contributed to:
 [Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
 [ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
 
