@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Harry 🦊
+## GM GUYS 👋 , I'm Harry 🦊
 I'm a Batman 🦇, I mean Software Engineer <br />
 Currently, I build Web3 Products for Indonesian startups. I do a lot of research on Web3 spaces, which you can read [here](https://medium.com/hryer-dev). <br />
 Let's Meet or Talks !<br />
