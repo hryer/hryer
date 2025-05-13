@@ -8,6 +8,12 @@ I'm still new to contributing to open source in Web3, but I'm doing my best to l
 [Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
 [ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
 
+## My Blockchain Research
+coming soon . . .
+
+## Portfolio / Projects
+coming soon . . .
+
 ## 🤙 Have a questions or Hire me? Message me on:
 
 [<img align="left" alt="linked-in | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:0 10px"/>][linkedin]
