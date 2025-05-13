@@ -8,7 +8,7 @@ I'm still new to contributing to open source in Web3, but I'm doing my best to l
 [Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
 [ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
 
-## My Blockchain Research
+## Blockchain Research
 coming soon . . .
 
 ## Portfolio / Projects
