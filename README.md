@@ -17,7 +17,6 @@ I'm still new to contributing to open source in Web3, but I'm doing my best to l
 | 2021 | Ethereum               | Solidity StarNotary2 Game |https://github.com/hryer/starNotaryV2
 | 2021 | Ethereum               |  Solidity StarNotary Game | https://github.com/hryer/starNotary
 | 2021 | Ethereum               |  Solidity ERC-20 Token |https://github.com/hryer/love-token
-| 2018 | Ethereum               |  Solidity Lottery | https://github.com/hryer/Lottery |
 | 2018 | Ethereum               |  Apps Lottery | https://github.com/hryer/lotereact |
 | 2018 | Ethereum               |  Solidity Lottery | https://github.com/hryer/Lottery |
 | 2018 | -              |  Private Blockchain | https://github.com/hryer/private-blockchain |
