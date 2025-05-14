@@ -15,7 +15,7 @@
 | 2017 | JS               |  Pig Game  | https://github.com/hryer/DOM-Pig-Game  |
 | 2017 | JS               |  CMS Admin Design  | https://github.com/hryer/cmsAdmin  |
 | 2016 | PHP               |  Shoes Store  | https://github.com/hryer/shoes_store  |
-| 2016 | JS               |  Siliwangi - IT Consultant Design  | https://github.com/hryer/SilwangiDev-Design  |
+| 2016 | PHP (CI)               |  Siliwangi - IT Consultant  | https://github.com/hryer/SiliwangiDev  |
 | 2016 | JS               |  Computer Shop Design  | https://github.com/hryer/Comp_Ac_Shop  |
 | 2016 | JS               |  Budget Apps  | https://github.com/hryer/Budget_Projects  |
 | 2016 | PHP               | Simple Ecommerce   | https://github.com/hryer/ecommerce_phpnative  |
