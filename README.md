@@ -4,7 +4,6 @@ Currently, I build Web3 Products for Indonesian startups. I do a lot of research
 I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 
 ## Open Sources - Web3 Ecosystems
-I'm still new to contributing to open source in Web3, but I'm doing my best to learn and get involved. Here are some projects I've contributed to so far: <br />
 [Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
 [ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
 
