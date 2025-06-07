@@ -38,13 +38,12 @@ I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 | 2019 | JS (React Native)               |  Complaint Apps Offline First | https://github.com/hryer/complaint-app  |
 | 2016 | PHP               |  Shoes Store  | https://github.com/hryer/shoes_store  |
 
+see other projects/ portfolio [here](https://github.com/hryer/hryer/blob/main/projects.md)
 
 ## Open Sources
 [Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
 [ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
 
-
-see other projects/ portfolio [here](https://github.com/hryer/hryer/blob/main/projects.md)
 
 ## Visitors Count <br />
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhryer%2Fhryer&countColor=%23ba68c8&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhryer%2Fhryer)
