@@ -31,7 +31,7 @@ I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 [linkedin]: https://www.linkedin.com/in/hryer/
 <br />
 
-## Portfolio
+## Personal Projects
 | Year       | Blockchain Network | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
 | 2021 | Ethereum               | Solidity Coffee Supply Chain | https://github.com/hryer/coffee-supply-chain
