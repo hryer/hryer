@@ -31,17 +31,17 @@ I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 [linkedin]: https://www.linkedin.com/in/hryer/
 <br />
 
-
-## Open Sources
-[Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
-[ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
-
 ## Portfolio
 | Year       | Blockchain Network | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
 | 2021 | Ethereum               | Solidity Coffee Supply Chain | https://github.com/hryer/coffee-supply-chain
 | 2019 | JS (React Native)               |  Complaint Apps Offline First | https://github.com/hryer/complaint-app  |
 | 2016 | PHP               |  Shoes Store  | https://github.com/hryer/shoes_store  |
+
+
+## Open Sources
+[Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
+[ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
 
 
 see other projects/ portfolio [here](https://github.com/hryer/hryer/blob/main/projects.md)
