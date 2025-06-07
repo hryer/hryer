@@ -32,38 +32,17 @@ I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 <br />
 
 
-## Open Sources - Web3 Ecosystems
+## Open Sources
 [Ethereum Org Website](https://github.com/ethereum/ethereum-org-website) </br>
 [ReactJs Official Indonesian Documentation](https://github.com/reactjs/id.react.dev)
 
-## Blockchain Portfolio / Projects / Research
+## Portfolio
 | Year       | Blockchain Network | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
 | 2021 | Ethereum               | Solidity Coffee Supply Chain | https://github.com/hryer/coffee-supply-chain
-| 2021 | Ethereum               | Solidity Blockchain Privacy | https://github.com/hryer/blockchain-privacy
-| 2021 | Ethereum               | Solidity Crypto Star | https://github.com/hryer/cryptostar
-| 2021 | Ethereum               | Solidity StarNotary2 Game |https://github.com/hryer/starNotaryV2
-| 2021 | Ethereum               |  Solidity StarNotary Game | https://github.com/hryer/starNotary
-| 2021 | Ethereum               |  Solidity ERC-20 Token |https://github.com/hryer/love-token
-| 2018 | Ethereum               |  Apps Lottery | https://github.com/hryer/lotereact |
-| 2018 | Ethereum               |  Solidity Lottery | https://github.com/hryer/Lottery |
-| 2018 | -              |  Private Blockchain | https://github.com/hryer/private-blockchain |
-| 2018 | Stellar               |  Stellar Playground | https://github.com/hryer/Playground-Stellar |
-
-## Portfolio / Projects / Research
-| Year       | Programming Language | Title                         | URL                                 |
-|------------|----------------------|-------------------------------|-------------------------------------|
-| 2021 | JS               |  Cache Memory DS | https://github.com/hryer/cache-memory-ds |
-| 2021 | Rust               |  GraphQL Gateway use Rust Apollo Federation Boilerplate | https://github.com/hryer/rust-apollo-federation  |
-| 2018 | JS (ReactJs)               |  Paint Apps React Hooks | https://github.com/hryer/paint-apps  |
 | 2019 | JS (React Native)               |  Complaint Apps Offline First | https://github.com/hryer/complaint-app  |
-| 2019 | JS (ReactJs)               |  ToDo React Offline | https://github.com/hryer/todo-react-offline  |
-| 2017 | Java GUI               |  Notepad Java GUI | https://github.com/hryer/SimpleNotepad  |
-| 2017 | PHP (Laravel)               |  Find CoFounder Startup  | https://github.com/hryer/caripartner  |
-| 2017 | PHP (CI)               |  ECommerce Code Igniter Final Exam Babastudio  | https://github.com/hryer/AllAboutCI  |
 | 2016 | PHP               |  Shoes Store  | https://github.com/hryer/shoes_store  |
-| 2016 | Go, JS               |  Algorithm Competitive Programming  | https://github.com/hryer/Algorithm-Playground  |
-| 2016 | JS               |  Budget Apps  | https://github.com/hryer/Budget_Projects  |
+
 
 see other projects/ portfolio [here](https://github.com/hryer/hryer/blob/main/projects.md)
 
