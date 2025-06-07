@@ -1,4 +1,18 @@
-# Portfolio / Projects / Research
+# Portfolio / Projects Web3
+| Year       | Blockchain Network | Title                         | URL                                 |
+|------------|----------------------|-------------------------------|-------------------------------------|
+| 2021 | Ethereum               | Solidity Coffee Supply Chain | https://github.com/hryer/coffee-supply-chain
+| 2021 | Ethereum               | Solidity Blockchain Privacy | https://github.com/hryer/blockchain-privacy
+| 2021 | Ethereum               | Solidity Crypto Star | https://github.com/hryer/cryptostar
+| 2021 | Ethereum               | Solidity StarNotary2 Game |https://github.com/hryer/starNotaryV2
+| 2021 | Ethereum               |  Solidity StarNotary Game | https://github.com/hryer/starNotary
+| 2021 | Ethereum               |  Solidity ERC-20 Token |https://github.com/hryer/love-token
+| 2018 | Ethereum               |  Apps Lottery | https://github.com/hryer/lotereact |
+| 2018 | Ethereum               |  Solidity Lottery | https://github.com/hryer/Lottery |
+| 2018 | -              |  Private Blockchain | https://github.com/hryer/private-blockchain |
+| 2018 | Stellar               |  Stellar Playground | https://github.com/hryer/Playground-Stellar |
+
+# Portfolio / Projects Web2
 
 | Year       | Programming Language | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
