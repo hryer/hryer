@@ -1,6 +1,6 @@
 ## GM GUYS 👋 , I'm Harry 🦊
 I'm a Batman 🦇, I mean Software Engineer <br />
-Currently, I build Web3 Products for Indonesian startups. I do a lot of research on Web3 spaces, which you can read [here](https://medium.com/hryer-dev). <br />
+Currently, I build Web3 Products for Indonesian startups. I actively study and research networks beyond EVM, which you can read [here](https://medium.com/hryer-dev). <br />
 I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
