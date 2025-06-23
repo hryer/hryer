@@ -32,9 +32,9 @@ I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 <br />
 
 ## Personal Projects
-| Year       | Blockchain Network | Title                         | URL                                 |
+| Year       | Languange | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
-| 2021 | Ethereum               | Solidity Coffee Supply Chain | https://github.com/hryer/coffee-supply-chain
+| 2021 | Ethereum (Solidity)               | Solidity Coffee Supply Chain | https://github.com/hryer/coffee-supply-chain
 | 2019 | JS (React Native)               |  Complaint Apps Offline First | https://github.com/hryer/complaint-app  |
 | 2016 | PHP               |  Shoes Store  | https://github.com/hryer/shoes_store  |
 
