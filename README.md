@@ -34,9 +34,8 @@ I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 ## Personal Projects
 | Year       | Languange | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
-| 2021 | Ethereum (Solidity)               | Solidity Coffee Supply Chain | https://github.com/hryer/coffee-supply-chain
-| 2019 | JS (React Native)               |  Complaint Apps Offline First | https://github.com/hryer/complaint-app  |
-| 2016 | PHP               |  Shoes Store  | https://github.com/hryer/shoes_store  |
+| 2025 | -               | Claude Code Blockchain Sub Agent Collections | https://github.com/mads-finance/blockchain-agents
+| 2025 | Rust, SVM              | Web3 Freelancers Protocol (solana) | will be open sources after Product MVP release  |
 
 see other projects/ portfolio [here](https://github.com/hryer/hryer/blob/main/projects.md)
 
