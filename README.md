@@ -35,7 +35,7 @@ I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
 | Year       | Languange | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
 | 2025 | -               | Claude Code Blockchain Sub Agent Collections | https://github.com/mads-finance/blockchain-agents
-| 2025 | Rust, SVM              | Web3 Freelancers Protocol (solana) | will be open sources after Product MVP release  |
+| 2025 | Rust, SVM              | Web3 Freelancers Protocol (solana) | https://rekber.xyz  |
 
 see other projects/ portfolio [here](https://github.com/hryer/hryer/blob/main/projects.md)
 
