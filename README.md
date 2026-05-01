@@ -1,7 +1,7 @@
 ## GM GUYS 👋 , I'm Harry 🦊
 I'm a Batman 🦇, I mean Software Engineer <br />
 Currently, I build Products for Web3 startups. I actively study and research networks beyond EVM, which you can read [here](https://medium.com/hryer-dev). <br />
-I believe in Exponential Growth and Progress, Let's Meet or Talks !<br />
+I have believed in technology since I was a kid - from being a script kiddie, defacing websites, and installing keyloggers at school, to growing up and deciding to dedicate my life to the technology industry and become a software engineer. Let's Meet or Talks !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
 
