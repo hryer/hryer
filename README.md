@@ -1,5 +1,5 @@
 ## GM GUYS 👋 , I'm Harry 🦊
-I'm a Batman 🦇, I mean Software Engineer <br />
+I'm a Software Engineer <br />
 Currently, I build Products for Web3 startups & Crypto Exchanges(CEX). I actively study and research networks beyond EVM, which you can read [here](https://medium.com/hryer-dev). <br />
 I have believed in technology since I was a kid - from being a script kiddie, defacing websites, and installing keyloggers at school, to growing up and deciding to dedicate my life to the technology industry and become a software engineer. Let's Meet or Talks !<br />
 
@@ -35,7 +35,6 @@ I have believed in technology since I was a kid - from being a script kiddie, de
 | Year       | Languange | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
 | 2025 | -               | Claude Code Blockchain Sub Agent Collections | https://github.com/mads-finance/blockchain-agents
-| 2025 | Rust, SVM              | Web3 Freelancers Protocol (solana) | https://rekber.xyz  |
 
 see other projects/ portfolio [here](https://github.com/hryer/hryer/blob/main/projects.md)
 
