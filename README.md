@@ -34,7 +34,8 @@ I have believed in technology since I was a kid - from being a script kiddie, de
 ## Personal Projects
 | Year       | Languange | Title                         | URL                                 |
 |------------|----------------------|-------------------------------|-------------------------------------|
-| 2025 | -               | Claude Code Blockchain Sub Agent Collections | https://github.com/mads-finance/blockchain-agents
+| 2025 | Rust            | mcp-server-blockchain-data | https://github.com/madlabs-tech/mcp-server-blockchain-data
+| 2025 | -               | Blockchain Sub Agent Collections | https://github.com/madlabs-tech/blockchain-agents
 
 see other projects/ portfolio [here](https://github.com/hryer/hryer/blob/main/projects.md)
 
