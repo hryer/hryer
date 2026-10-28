@@ -1,6 +1,6 @@
 ## GM GUYS 👋 , I'm Harry 🦊
 I'm a Software Engineer / Full-stack Engineer <br />
-Currently, I digitalized Big Companies to use AI. Before that mostly I work for Web3 startups & Crypto Exchanges(CEX). I actively study and research networks beyond EVM, which you can read [here](https://medium.com/hryer-dev). <br />
+Currently, I digitalized Big Companies to use AI. Before that, I work for Web3 startups & Crypto Exchanges(CEX). I actively study and research networks beyond EVM, which you can read [here](https://medium.com/hryer-dev). <br />
 I have believed in technology since I was a kid - from being a script kiddie, defacing websites, and installing keyloggers at school, to growing up and deciding to dedicate my life to the technology industry and become a software engineer. Let's Meet or Talks !<br />
 
 ## 🤙 Have a questions or Hire me? Message me on:
